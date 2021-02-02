@@ -1,0 +1,15 @@
+.lat-btn {
+text-decoration: none;
+font-size: 26px;
+background-color: white;
+
+}
+
+.lat-btn a {
+    background-color: rgb(50, 189, 175);
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 14px;
+
+}

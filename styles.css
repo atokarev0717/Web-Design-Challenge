@@ -11,5 +11,8 @@ background-color: white;
     font-weight: bold;
     text-align: center;
     padding: 14px;
+    display: block;
+    margin: 0px 0px 0px 20px;
+    width: 150px
 
 }
